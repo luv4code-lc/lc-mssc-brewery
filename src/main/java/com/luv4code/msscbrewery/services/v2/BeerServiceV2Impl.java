@@ -1,4 +1,4 @@
-package com.luv4code.msscbrewery.customer.services.v2;
+package com.luv4code.msscbrewery.services.v2;
 
 import com.luv4code.msscbrewery.web.model.v2.BeerDtoV2;
 import org.springframework.stereotype.Service;
